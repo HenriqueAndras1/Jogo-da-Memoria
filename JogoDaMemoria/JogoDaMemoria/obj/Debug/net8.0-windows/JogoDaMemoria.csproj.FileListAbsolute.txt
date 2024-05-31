@@ -1,0 +1,48 @@
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Nova pasta\JogoDaMemoria\JogoDaMemoria\bin\Debug\net8.0-windows\JogoDaMemoria.exe
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Nova pasta\JogoDaMemoria\JogoDaMemoria\bin\Debug\net8.0-windows\JogoDaMemoria.deps.json
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Nova pasta\JogoDaMemoria\JogoDaMemoria\bin\Debug\net8.0-windows\JogoDaMemoria.runtimeconfig.json
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Nova pasta\JogoDaMemoria\JogoDaMemoria\bin\Debug\net8.0-windows\JogoDaMemoria.dll
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Nova pasta\JogoDaMemoria\JogoDaMemoria\bin\Debug\net8.0-windows\JogoDaMemoria.pdb
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Nova pasta\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\JogoDaMemoria.Form1.resources
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Nova pasta\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\JogoDaMemoria.csproj.GenerateResource.cache
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Nova pasta\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\JogoDaMemoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Nova pasta\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\JogoDaMemoria.AssemblyInfoInputs.cache
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Nova pasta\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\JogoDaMemoria.AssemblyInfo.cs
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Nova pasta\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\JogoDaMemoria.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Nova pasta\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\JogoDaMemoria.dll
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Nova pasta\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\refint\JogoDaMemoria.dll
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Nova pasta\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\JogoDaMemoria.pdb
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Nova pasta\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\JogoDaMemoria.genruntimeconfig.cache
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Nova pasta\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\ref\JogoDaMemoria.dll
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Projetos Prontos não modificar\JogoDaMemoria\JogoDaMemoria\bin\Debug\net8.0-windows\JogoDaMemoria.exe
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Projetos Prontos não modificar\JogoDaMemoria\JogoDaMemoria\bin\Debug\net8.0-windows\JogoDaMemoria.deps.json
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Projetos Prontos não modificar\JogoDaMemoria\JogoDaMemoria\bin\Debug\net8.0-windows\JogoDaMemoria.runtimeconfig.json
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Projetos Prontos não modificar\JogoDaMemoria\JogoDaMemoria\bin\Debug\net8.0-windows\JogoDaMemoria.dll
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Projetos Prontos não modificar\JogoDaMemoria\JogoDaMemoria\bin\Debug\net8.0-windows\JogoDaMemoria.pdb
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Projetos Prontos não modificar\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\JogoDaMemoria.Form1.resources
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Projetos Prontos não modificar\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\JogoDaMemoria.csproj.GenerateResource.cache
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Projetos Prontos não modificar\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\JogoDaMemoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Projetos Prontos não modificar\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\JogoDaMemoria.AssemblyInfoInputs.cache
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Projetos Prontos não modificar\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\JogoDaMemoria.AssemblyInfo.cs
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Projetos Prontos não modificar\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\JogoDaMemoria.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Projetos Prontos não modificar\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\JogoDaMemoria.dll
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Projetos Prontos não modificar\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\refint\JogoDaMemoria.dll
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Projetos Prontos não modificar\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\JogoDaMemoria.pdb
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Projetos Prontos não modificar\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\JogoDaMemoria.genruntimeconfig.cache
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Projetos Prontos não modificar\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\ref\JogoDaMemoria.dll
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Pronto\JogoDaMemoria\JogoDaMemoria\bin\Debug\net8.0-windows\JogoDaMemoria.exe
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Pronto\JogoDaMemoria\JogoDaMemoria\bin\Debug\net8.0-windows\JogoDaMemoria.deps.json
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Pronto\JogoDaMemoria\JogoDaMemoria\bin\Debug\net8.0-windows\JogoDaMemoria.runtimeconfig.json
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Pronto\JogoDaMemoria\JogoDaMemoria\bin\Debug\net8.0-windows\JogoDaMemoria.dll
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Pronto\JogoDaMemoria\JogoDaMemoria\bin\Debug\net8.0-windows\JogoDaMemoria.pdb
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Pronto\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\JogoDaMemoria.Form1.resources
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Pronto\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\JogoDaMemoria.csproj.GenerateResource.cache
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Pronto\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\JogoDaMemoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Pronto\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\JogoDaMemoria.AssemblyInfoInputs.cache
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Pronto\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\JogoDaMemoria.AssemblyInfo.cs
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Pronto\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\JogoDaMemoria.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Pronto\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\JogoDaMemoria.dll
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Pronto\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\refint\JogoDaMemoria.dll
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Pronto\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\JogoDaMemoria.pdb
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Pronto\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\JogoDaMemoria.genruntimeconfig.cache
+C:\Users\Henrique\Desktop\Projeto Final Faculdade\Pronto\JogoDaMemoria\JogoDaMemoria\obj\Debug\net8.0-windows\ref\JogoDaMemoria.dll
